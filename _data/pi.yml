@@ -1,17 +1,17 @@
-- name: Dr. Richard Feynman
+- name: Bsc. Ignacio Reyes
   photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
+  info: Universidad de Chile
+  email: ignacio.reyes.astro@gmail.com
+  github: https://github.com/Ignacio6Reyes
   researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+  scholar: https://scholar.google.com/
   cv: cv/cv.pdf
   # Change the items in "education" you have (up to 6)
   education:
     [
-      "(1942) Ph.D. Physics, Princeton University",
-      "(1939) B.S. Physics, Massachusetts Institute of Technology",
+      "(2022) Diploma in Python and Data Science, Pontificia Universidad Católica de Chile",
+      "(2019) B.S. Astronomy, Universidad de Chile",
     ]
 
   educationshort:
-    ["(1942) Ph.D. Physics, Princeton", "(1939) B.S. Physics, MIT"]
+    ["(2022) Diploma in Python, PUC", "(2019) B.S. Astronomy, UChile"]

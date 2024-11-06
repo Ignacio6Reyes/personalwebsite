@@ -22,6 +22,7 @@ Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
 
 ### About me
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in astronomy from Universidad de Chile in 2019 and a Data Science diploma from Pontificia Universidad Católica de Chile
+I am an astronomer currenty working as an online freelancer.
+I received my undergraduate degree in astronomy from Universidad de Chile in 2019 and a Data Science diploma
+from Pontificia Universidad Católica de Chile.
 

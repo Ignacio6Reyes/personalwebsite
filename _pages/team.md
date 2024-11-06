@@ -7,8 +7,9 @@ permalink: /team/
 
 ## Team
 
-**We are looking for new team members** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+**My esteemed colleges!**
 
+<!---
 ## PI
 
 {% for member in site.data.pi %}
@@ -35,6 +36,7 @@ permalink: /team/
 {% endfor %}
 
 ## Current Students and Postdocs
+--->
 
 <div class='jumbotron'>
 {% assign number_printed = 0 %}
@@ -80,6 +82,7 @@ permalink: /team/
 {% endif %}
 </div>
 
+<!---
 ## Alumni
 
 <div class="jumbotron">
@@ -121,3 +124,4 @@ permalink: /team/
 ## Administrative Support
 
 <a href="exampleemail@gmail.com">Example staff</a> is helping us (and other groups) with administration.
+--->
