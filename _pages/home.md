@@ -23,6 +23,6 @@ Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
 ### About me
 
 I am an astronomer currenty working as an online freelancer.
-I received my undergraduate degree in astronomy from Universidad de Chile in 2019 and a Data Science diploma
+I received my bachellor's degree in astronomy from Universidad de Chile in 2019 and a Data Science diploma
 from Pontificia Universidad Católica de Chile.
 

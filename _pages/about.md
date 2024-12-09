@@ -22,8 +22,9 @@ permalink: /about/
   {% if member.scholar %} <a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-3x"></i></a> {% endif %}
   {% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-3x"></i></a> {% endif %}
   {% if member.researchgate %} <a href="{{ member.researchgate }}" target="_blank"><i class="ai ai-researchgate-square ai-3x"></i></a> {% endif %}
+  {% if member.linkedin %} <a href="{{ member.linkedin }}" target="_blank"><i class="fa fa-linkedin-square fa-3x"></i></a> {% endif %}
 
-  <ul style="overflow: hidden">
+<ul style="overflow: hidden">
     {% for education in member.education %}
       <li>{{ education | replace: "-","&#8211;" }}</li>
     {% endfor %}
@@ -33,6 +34,26 @@ permalink: /about/
 </div>
 </div>
 {% endfor %}
+
+<div class="jumbotron">
+  <h3>Want me to work for you?</h3>
+  <ul>
+    <a href="{{ site.baseurl}}/services " target="_blank">Learn more</a>
+    how to hire me and what services I provide.
+  </ul>
+</div>
+
+<div class="jumbotron">
+  <h3>Abilties and interest</h3>
+  <ul>
+    <li> Advanced English</li>
+    <li> Python: Graphics, Machine Learning (Sktlearn), Pandas.</li>
+    <li> Latex</li>
+    <li> Programing Languages: C, R</li>        
+  </ul>
+    My interest include cosmology, data science and astroinformatics.
+</div>
+
 <!---
 {% if site.data.grants %}
 

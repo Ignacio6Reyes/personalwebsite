@@ -24,7 +24,7 @@ WIP
 </div>
 
 <div class="jumbotron">
-### Refereed journal articles
+### Journal articles collaborated.
  {% bibliography --query @article %}
 </div>
 

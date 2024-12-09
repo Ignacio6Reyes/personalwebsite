@@ -34,8 +34,10 @@ iframe {
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h4>Example Research</h4>
+<h4>Heterodine Interferometry (Astronomical Instrumentation)</h4>
 
-Example description
+I have worked ina a multidisciplinary team in the Laboratorio de Astrofotónica y Tereherzios (DIE, Universidad de Chile). On a project to adapt a heterodyne interferometer from a two telescope setup to a three telescope setup.
+
+
 </div>
 </div>
