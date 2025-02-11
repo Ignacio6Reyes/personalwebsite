@@ -36,7 +36,7 @@ iframe {
 <div class="col-md-12 col-sm-12">
 <h4>Heterodine Interferometry (Astronomical Instrumentation)</h4>
 
-I have worked ina a multidisciplinary team in the Laboratorio de Astrofotónica y Tereherzios (DIE, Universidad de Chile). On a project to adapt a heterodyne interferometer from a two telescope setup to a three telescope setup.
+I have worked in a multidisciplinary team in the Laboratorio de Astrofotónica y Tereherzios (DIE, Universidad de Chile). On a project to adapt a heterodyne interferometer from a two telescope setup to a three telescope setup.
 
 
 </div>
