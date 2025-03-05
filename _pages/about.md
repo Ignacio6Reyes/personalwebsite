@@ -29,7 +29,7 @@ permalink: /about/
       <li>{{ education | replace: "-","&#8211;" }}</li>
     {% endfor %}
   </ul>
-
+ <img src="{{ site.url }}{{ site.baseurl }}/images/fcfm.png" width="50%"/><br/> 
 </div>
 </div>
 </div>
